@@ -1,2 +1,2 @@
 # repo-example
-It's just a example for how to create new project.
+It's a example for show how to create new project.
